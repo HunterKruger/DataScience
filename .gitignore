@@ -6,3 +6,4 @@
 *.tsv
 *.m
 *.pkl
+*.DS_Store

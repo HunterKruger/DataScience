@@ -5,3 +5,6 @@
 *.pkl
 *.DS_Store
 *.h5
+DataAnalytics/safe-driver-prediction/test.csv
+DataAnalytics/safe-driver-prediction/train.csv
+DeepLearning/creditcard.csv

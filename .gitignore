@@ -8,3 +8,8 @@
 DataAnalytics/safe-driver-prediction/test.csv
 DataAnalytics/safe-driver-prediction/train.csv
 DeepLearning/creditcard.csv
+UseCase(homesite_quote, bin_class, imbalanced)/data/raw_data/train.csv
+UseCase(homesite_quote, bin_class, imbalanced)/data/raw_data/test.csv
+UseCase(homesite_quote, bin_class, imbalanced)/data/featured_data/X_train.csv
+UseCase(homesite_quote, bin_class, imbalanced)/data/featured_data/train.csv
+UseCase(homesite_quote, bin_class, imbalanced)/data/featured_data/test.csv

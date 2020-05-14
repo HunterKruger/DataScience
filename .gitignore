@@ -13,3 +13,4 @@ UseCase(homesite_quote, bin_class, imbalanced)/data/raw_data/test.csv
 UseCase(homesite_quote, bin_class, imbalanced)/data/featured_data/X_train.csv
 UseCase(homesite_quote, bin_class, imbalanced)/data/featured_data/train.csv
 UseCase(homesite_quote, bin_class, imbalanced)/data/featured_data/test.csv
+.DS_Store
